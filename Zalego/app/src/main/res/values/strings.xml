@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zalego</string>app_name_login
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_lastname">Last Name</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_short_username">This username is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="action_register">Register</string>
+    <string name="action_logout">Logout</string>
+    <string name="zalego_logo">Zalego Logo</string>
+    <string name="app_name_login">Login</string>
+    <string name="app_name_register">Register</string>
+    <string name="app_name_view_data">View Data</string>
+
+</resources>
