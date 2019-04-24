@@ -1,4 +1,4 @@
-Zalego(Android) & zalego_backend(php) =>>Check at https://youtu.be/Zc1ndxSeVpc
+Zalego(Android) & zalego_backend(php) =>>Check video here https://youtu.be/Zc1ndxSeVpc
 The App is designed to allow user to register and login to view the data they entered when registering
 Contains:
 I.	Zalego (Android App)
@@ -18,4 +18,4 @@ to reflect your computer(host) IP address. This varies with the network the comp
 6)	Go into htdocs folder in XAMPP/WAMPP server and paste zalego_backend folder there.
 7)	Edit db connection statement inside zalego_backend/include/ db_connection.php to match your db credentials.
 8)	Connect Android device to the computer with a USB and fire the app from Android Studio. Test the app after it Installs on the device. 
-P.S: To know your host IP, execute an ipconfig command from Windows Powershell(cmd) or ifconfig from a Linux terminal.
+P.S: To know your host IP, execute an ipconfig command from Windows Powershell/cmd or ifconfig from a Linux terminal.
